@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './Navbar.css'
-import riri_logo from '../Assets/riri_logo.png'
+import riri_logo from '../Assets/riri_logo2.png'
 import cart_icon from '../Assets/cart_icon.png'
 import { Link } from 'react-router-dom'
 
