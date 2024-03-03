@@ -73,3 +73,7 @@
     font-size: 18px;
     font-weight: 500;
 }
+
+.loginsignup-agree input[type="checkbox"] {
+    transform: scale(1.5); /* Scale the checkbox up by 1.5 times */
+}
