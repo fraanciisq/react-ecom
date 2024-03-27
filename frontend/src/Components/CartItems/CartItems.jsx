@@ -35,6 +35,35 @@ const CartItems = () => {
             }
             return null; // Add this line to explicitly return null when cartItems[e.id] is not greater than 0
         })}
+        <div className="cartitems-down">
+            <div className="cartitems-total">
+                <h1>Cart Totals</h1>
+                <div>
+                    <div className="cartitems-total-item">
+                        <p>Subtotal</p>
+                        <p>₱{0}</p>
+                    </div>
+                    <hr />
+                    <div className="cartitems-total-item">
+                        <p>Shipping Fee</p>
+                        <p>Free</p>
+                    </div>
+                    <hr />
+                    <div className="cartitems-total-item">
+                        <h3>Total</h3>
+                        <h3>₱{0}</h3>
+                    </div>
+                </div>
+                <button>PROCEED TO CHECKOUT</button>
+            </div>
+            <div className="cartitems-promocode">
+                <p>Enter Promo / Voucher Code:</p>
+                <div className="cartitems-promobox">
+                    <input type="text" placeholder='Promo Code' />
+                    <button>Submit</button>
+                </div>
+            </div>
+        </div>
     </div>
 
   )
