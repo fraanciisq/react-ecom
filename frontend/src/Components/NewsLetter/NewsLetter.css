@@ -56,3 +56,21 @@
     font-size: 16px;
     cursor: pointer;
 }
+
+@media(max-width:1280px){
+    .newsletter{
+        padding: 0px 80px;
+        margin-bottom: 120px;
+        gap: 20px;
+    }
+
+    .newsletter h1{
+        font-size: 36px;
+
+    }
+
+    .newsletter p{
+        font-size: 16px;
+    }
+    
+}
