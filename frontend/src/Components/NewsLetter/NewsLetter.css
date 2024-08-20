@@ -72,5 +72,9 @@
     .newsletter p{
         font-size: 16px;
     }
-    
+    .newsletter div{
+        width: 600px;
+        height: 60px;
+        
+    }
 }
