@@ -85,6 +85,40 @@
     .newsletter div button{
         width: 160px;
         height: 60px;
-        
+
     }
+
+}
+
+@media(max-width:1024px){
+    .newsletter{
+
+        margin-bottom: 60px;
+
+    }
+
+    .newsletter h1{
+        font-size: 36px;
+
+    }
+
+    .newsletter p{
+        font-size: 16px;
+    }
+    .newsletter div{
+        width: 600px;
+        height: 60px;
+
+    }
+
+    .newsletter div input {
+        width: 400px;
+    
+    }
+    .newsletter div button{
+        width: 160px;
+        height: 60px;
+
+    }
+    
 }
