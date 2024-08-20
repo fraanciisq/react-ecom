@@ -75,6 +75,11 @@
     .newsletter div{
         width: 600px;
         height: 60px;
-        
+
+    }
+
+    .newsletter div input {
+        width: 400px;
+    
     }
 }
