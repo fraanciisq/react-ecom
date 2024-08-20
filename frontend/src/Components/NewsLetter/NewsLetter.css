@@ -82,4 +82,9 @@
         width: 400px;
     
     }
+    .newsletter div button{
+        width: 160px;
+        height: 60px;
+        
+    }
 }
