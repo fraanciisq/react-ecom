@@ -142,14 +142,14 @@
         font-size: 12px;
     }
     .newsletter div{
-        width: 500px;
-        height: 50px;
+        width: 400px;
+        height: 40px;
 
     }
 
     .newsletter div input {
-        width: 300px;
-        font-size: 14px;
+        width: 200px;
+        font-size: 13px;
     
     }
     .newsletter div button{
