@@ -83,4 +83,8 @@
         gap: 10px;
     }
 
+    .footer-social-icon img{
+        width: 22px;
+    }
+
 }
