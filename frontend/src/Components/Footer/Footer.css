@@ -66,4 +66,9 @@
     .footer {
         gap: 20px;
     }
+    .footer-logo{
+        gap: 10px;
+        align-items: end;
+        
+    }
 }
