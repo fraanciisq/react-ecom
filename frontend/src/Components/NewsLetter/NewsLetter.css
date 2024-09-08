@@ -182,15 +182,13 @@
         text-align: center;
     }
     .newsletter div{
-        width: 400px;
-        height: 40px;
+        width: 290px;
 
     }
 
     .newsletter div input {
-        width: 200px;
-        font-size: 13px;
-    
+        width: 130px;
+ 
     }
     .newsletter div button{
         width: 100px;
