@@ -160,3 +160,42 @@
     }
     
 }
+
+
+@media(max-width:500px){
+    .newsletter{
+        height: 25vh;
+        width: 100%;
+        padding: 0;
+        gap: 15px;
+
+    }
+
+    .newsletter h1{
+        font-size: 18px;
+
+    }
+
+    .newsletter p{
+        font-size: 12px;
+    }
+    .newsletter div{
+        width: 400px;
+        height: 40px;
+
+    }
+
+    .newsletter div input {
+        width: 200px;
+        font-size: 13px;
+    
+    }
+    .newsletter div button{
+        width: 100px;
+        height: 40px;
+        font-size: 13px;
+
+    }
+    
+}
+
