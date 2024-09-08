@@ -78,5 +78,9 @@
     .footer-logo p {
         font-size: 25px;
     }
+    .footer-links{
+        font-size: 14px;
+        gap: 10px;
+    }
 
 }
