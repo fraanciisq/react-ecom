@@ -177,7 +177,9 @@
     }
 
     .newsletter p{
-        font-size: 12px;
+        font-size: 13px;
+        max-width: 200px;
+        text-align: center;
     }
     .newsletter div{
         width: 400px;
